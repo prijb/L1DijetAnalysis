@@ -1,0 +1,8 @@
+# Output folders
+outputs/
+plots/
+
+# Condor submission folder
+condor_submission/
+
+
